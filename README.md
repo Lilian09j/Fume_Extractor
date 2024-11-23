@@ -1,5 +1,5 @@
-# Fume_Extractor
-Fume extractor to absorb soldering tin fumes based on an Arduino Nano
+# Solder Fumes Extractor
+Fumes extractor to absorb soldering tin fumes based on an Arduino Nano
 
 9v and 5v power supplies
 Leds band animation
